@@ -21,7 +21,7 @@ Our app collects limited personal data required for functionality, including:
 * app-remote-control - allows the app to control playback on your devices
 
 **Data Storage and Security**
-All personal data is stored securely and encrypted locally on your device. We do not send your data to any external servers, and we never share it with third parties. The only exception is communication with Spotify's API to provide app functionality, in full accordance with Spotify's Developer Policy. Cached data (playlists and artists) is stored locally on your device and automatically cleared when you "Disconnect Spotify" from the settings. Otherwise, it is refreshed every hour or when you refresh in Harmoniq to make sure your data is consistent with Spotify.
+All personal data is stored securely and encrypted locally on your device. We do not send your data to any external servers, and we never share it with third parties. The only exception is communication with Spotify's API to provide app functionality, in full accordance with Spotify's Developer Policy. Cached data (playlists and artists) are stored locally on your device and automatically cleared when you "Disconnect Spotify" from the settings. Otherwise, it is refreshed every hour or when you refresh in Harmoniq to make sure your data is consistent with Spotify.
 
 **Data Sharing**
 Your data is never sold or shared with advertisers. Interactions with third-party services such as Spotify strictly adhere to their respective privacy policies and terms of use.
