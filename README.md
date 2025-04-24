@@ -18,7 +18,6 @@ Our app collects limited personal data required for functionality, including:
 * user-modify-playback-state - lets the app start Spotify automatically if not started
 * playlist-read-private - used to load your personal playlists
 * playlist-read-collaborative - includes shared playlists you've joined
-* streaming - enables the app to play tracks from Spotify
 * app-remote-control - allows the app to control playback on your devices
 
 **Data Storage and Security**
